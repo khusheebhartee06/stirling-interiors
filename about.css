@@ -1,0 +1,39 @@
+.col-md-7 ul{
+    border-radius: 40px;
+}
+.col-md-7 a:hover{
+    background-color: black;
+   
+}
+
+.col-md-12 a:hover{
+    background-color: rgb(209, 200, 200);
+    
+}
+.col-sm-3 img{
+    height: 70%;
+    width: 70%;
+}
+.col-md-12 img{
+    height: 80%;
+    width: 100%;
+    margin-bottom: 20px;
+    }
+    .col-md-4 img{
+        height: 100%;
+        width: 100%;
+    }
+    #img-2 img{
+        height: 100%;
+        width: 100%;
+    }
+    #img-3 img{
+        height: 35px;
+        width: 40px;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        color:black;
+    }
